@@ -1,9 +1,9 @@
 locals {
-  vpc_id              = "vpc-0e392657d015ead7e"
-  private_a_subnet_id = "subnet-05904f2c6ff41f9ac"
-  private_b_subnet_id = "subnet-0d2855afeadef15c4"
-  public_a_subnet_id  = "subnet-0bc7b3f65a94185f7"
-  public_b_subnet_id  = "subnet-0f284c889962e924f"
+  vpc_id              = "vpc-093ef87864792541c"
+  private_a_subnet_id = "subnet-00b62f50a247c3b5a"
+  private_b_subnet_id = "subnet-023af6fdd1c9aea58"
+  public_a_subnet_id  = "subnet-0f5fdfc157b7cc9fc"
+  public_b_subnet_id  = "subnet-023af6fdd1c9aea58"
 
   ubuntu_ami = "ami-0f8ca728008ff5af4"
 
